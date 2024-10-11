@@ -26,8 +26,7 @@ Hi, I'm **Theophilus Bosomtwe**, a self-taught web developer and IT support spec
 Here are some of the technologies I use in building my projects:
 
 - **HTML & CSS**
-- **JavaScript**
-- **Python**
+- **JavaScript*
 - **Prompt Engineering**
 
 Here’s a generated image related to tech:
